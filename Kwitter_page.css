@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right top,  aqua, mediumaquamarine, lightseagreen, darkcyan);
+    font-family: cursive;
+    }
+
+#logout{
+    float: right;
+    color: whitesmoke;
+    margin-top: 110px;
+    margin-right: 100px;
+}
+
+.button{
+    width: 100px;
+    font-size: 18px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.user_tick{
+	width:20px;
+}
+
+#logo{
+    width: 350px;
+    height: 350px;
+}
+
+#msg{
+    width: 800px;
+}
